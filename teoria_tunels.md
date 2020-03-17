@@ -33,6 +33,10 @@ Hi han diferents tipus de túnels:
   En aquest cas el **rebot** és al **propi host-destí**, indicat com a **localhost**.
 
 * `Túnel directe a host-destí per accedir a host-remot-destí`: en aquest model volem accedir, des del *host-local*, a un servei que està en un *host-remot* al qual **no es té accés**.
+  
+  Per a conseguir aquesta connexió cal fer un túnel ssh del *host-local* al *host-destí* indicant el **rebot** al *host-remot*.
+  
+  Per exemple, fem un túnel ssh entre el *host-local* (aula-casa) i el *host-destí* (AMI d'Amazon) **rebotant** al container Docker anomenat *ldap.edt.org al port 389*. Aquest container està en una xarxa privada de docker i no es podria accedir des de l'exterior sense el túnel.
 
 
 
