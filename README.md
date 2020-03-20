@@ -4,9 +4,7 @@ Alumne: Marc Gómez
 
 ISX: isx47797439
 
-Mòdul: M11 ASIX
-
-
+Mòdul: M11 ASIX EDT
 
 # Índex exercicis
 
