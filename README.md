@@ -216,7 +216,7 @@ Per finalitzar, crearem un túnel directe des del host local al host destí, reb
 [marc@localhost kerberos19]$ ssh -i swarm19_1.pem -L 8080:ldapadmin:80 fedora@18.209.174.13
 ```
 
-### Resultats exercici 16
+### Resultat exercici 16
 
 * Les imatges són les matèixes que hem fet servir en l'exercici anterior perquè el resultat és el mateix si ho hem fet tot bé, encara que tinguem el php remot.
 
@@ -229,3 +229,5 @@ Accedim a la base de dades amb el phpldapadmin des del navegador del host local
 Comprovem que podem veure els users del server ldap remot
 
 ![alt text](./aux/users_ldap.png)
+
+
