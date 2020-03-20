@@ -4,7 +4,7 @@ Repositori per tunels ssh de l'assignatura M11 d' ASIX
 
 # Índex
 
-- [Exercici 15 ldap remot i phpldapadmin local](#15.-ldap-remot-i-phpldapadmin-local)
+- [Exercici 15 ldap remot i phpldapadmin local](#15-ldap-remot-i-phpldapadmin-local)
   
   - [Enunciat exercici](#Enunciat)
   
@@ -12,9 +12,7 @@ Repositori per tunels ssh de l'assignatura M11 d' ASIX
     
     - [Túnel host local i ldap remot](#Túnel-host-local-i-ldap-remot)
 
-# Exercicis
-
-# 15. ldap remot i phpldapadmin local
+# 15 ldap remot i phpldapadmin local
 
 ### Enunciat
 
