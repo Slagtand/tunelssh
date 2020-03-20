@@ -1,4 +1,14 @@
-# Índex
+# Dades alumne
+
+Alumne: Marc Gómez
+
+ISX: isx47797439
+
+Mòdul: M11 ASIX
+
+
+
+# Índex exercicis
 
 - [Exercici 15 ldap remot i phpldapadmin local](#15-ldap-remot-i-phpldapadmin-local)
   
